@@ -22,7 +22,7 @@ This project demonstrates how to build agentic AI applications using [LangGraph]
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/End-To-End-Agentic-AI-Projects-With-LangGraph.git
+   git clone https://github.com/PrinceGupta8/End-To-End-Agentic-AI-Projects-With-LangGraph.git
    cd "16- End To End Agentic AI Projects With LangGraph"
    ```
 
